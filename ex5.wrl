@@ -1,0 +1,16 @@
+#VRML V2.0 utf8
+WorldInfo { title "Glassy Sphere" }
+Background { skyColor [0.9 0.95 1] }          # Nền sáng
+DirectionalLight { direction -0.5 -1 -0.2
+                   intensity 0.9 }             # Đèn chiếu
+Shape {
+  geometry Sphere { radius 0.7 }               # Hình học: cầu R=0.7
+  appearance Appearance {
+    material Material {
+      diffuseColor 0.2 0.8 0.9                 # Màu cơ bản
+      specularColor 0.9 0.9 1.0                # Màu highlight (phản xạ)
+      shininess 0.6                            # Độ bóng (0..1)
+      transparency 0.35                        # Độ trong suốt (0 = đục)
+    }
+  }
+}

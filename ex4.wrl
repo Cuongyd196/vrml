@@ -1,0 +1,16 @@
+#VRML V2.0 utf8
+Shape {
+  geometry Box {
+    size 2 2 2
+  }
+  appearance Appearance {
+    material Material {
+      diffuseColor     0.8 0.8 0.8   # màu xám nhạt
+      emissiveColor    0.0 0.0 0.0   # không tự phát sáng
+      specularColor    0.7 0.7 0.56  # ánh phản xạ hơi ngả vàng
+      shininess        0.16          # độ bóng vừa phải
+      ambientIntensity 0.4           # phản xạ 40% ánh sáng môi trường
+      transparency     0.0           # không trong suốt (đặc hoàn toàn)
+    }
+  }
+}
