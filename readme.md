@@ -19,7 +19,7 @@ Danh sách các file được đăng tải tại: [https://github.com/Cuongyd196
 
 Bạn có thể sử dụng phần mềm **FreeWRL** để xem các file `.wrl`:
 
-1. Tải FreeWRL tại [https://sourceforge.net/projects/freewrl/](https://sourceforge.net/projects/freewrl/)
+1. Tải FreeWRL tại [https://sourceforge.net/projects/freewrl/files/freewrl-win32/6.0/](https://sourceforge.net/projects/freewrl/files/freewrl-win32/6.0/)
 2. Cài đặt và mở FreeWRL.
 3. Chọn **File > Open** và duyệt tới file `.wrl` bạn muốn xem.
 
@@ -29,8 +29,8 @@ Bạn có thể sử dụng **Visual Studio Code** để chỉnh sửa và lập
 
 1. Mở Visual Studio Code.
 2. Cài đặt extension hỗ trợ VRML/WRL (ví dụ: "VRML V2.0 Editing Kit").
-3. Mở file `.wrl` để lập trình wrl.
-4. Sử dụng các tính năng như tìm kiếm, quản lý dự án, và tích hợp Git để phát triển mô hình VRML hiệu quả hơn.
+3. Tạo và Mở file `.wrl` để lập trình wrl.
+4. Sử dụng tính năng tô màu cú pháp và kiểm tra lỗi của extension để hỗ trợ lập trình.
 
 ## Thông tin thêm
 

@@ -1,0 +1,11 @@
+#VRML V2.0 utf8
+# Trong file chính
+
+Transform {
+  translation 0 0 5
+  children [
+    Inline {
+      url [ "ex7.wrl" ]
+    }
+  ]
+}
