@@ -33,11 +33,7 @@ Bạn có thể sử dụng **Visual Studio Code** để chỉnh sửa và lập
 1. Mở Visual Studio Code.
 2. Cài đặt extension hỗ trợ VRML/WRL (ví dụ: "VRML V2.0 Editing Kit").
 3. Tạo và Mở file `.wrl` để lập trình wrl.
-<<<<<<< HEAD
 4. Sử dụng FreeWRL để xem file `.wrl` vừa tạo.
-=======
-4. Sử dụng tính năng tô màu cú pháp và kiểm tra lỗi của extension để hỗ trợ lập trình.
->>>>>>> main
 
 ## Thông tin thêm
 
